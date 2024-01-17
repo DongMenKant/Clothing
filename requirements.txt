@@ -1,0 +1,10 @@
+pymongo
+pandas
+selenium
+python-whois
+loguru
+streamlit
+streamlit-aggrid
+streamlit-on-Hover-tabs
+streamlit-echarts
+streamlit-option-menu

@@ -1,0 +1,11 @@
+/* ::v-deep .labelName {
+    writing-mode: vertical-rl !important;
+    text-orientation: upright;
+} */
+
+ .labelName {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
+
+
