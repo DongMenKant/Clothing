@@ -12,8 +12,6 @@ def connectmongodb():
 
 def readmongodb(table_name):
     # # 连接mongoDB
-    # # client = MongoClient('mongodb://admin:123456@localhost:27017/')
-    # client = MongoClient('mongodb://admin:123456@10.176.200.11:27017/')
     # # 指定数据库 
     # db = client.woman_top_clothings 
 
@@ -101,7 +99,6 @@ def readmongodb(table_name):
 
 
 def readmongodb_time(table_name):
-    # client = MongoClient('mongodb://admin:123456@10.176.200.11:27017/')
     # # 指定数据库 
     # db = client.woman_top_clothings 
 
@@ -209,7 +206,6 @@ def readmongodb_time(table_name):
 
 
 def readmongodb_style(table_name):
-    # client = MongoClient('mongodb://admin:123456@10.176.200.11:27017/')
     # # 指定数据库 
     # db = client.woman_top_clothings 
 
