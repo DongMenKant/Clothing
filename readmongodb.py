@@ -5,7 +5,7 @@ import json
 
 
 def connectmongodb():
-    client = MongoClient('mongodb://admin:123456@localhost:27017/')
+    client = MongoClient('mongodb://admin:123456@124.221.154.39:27017/')
     # 指定数据库 
     global db
     db = client.woman_top_clothings 
